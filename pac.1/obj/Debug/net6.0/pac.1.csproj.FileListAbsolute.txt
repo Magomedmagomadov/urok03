@@ -1,0 +1,15 @@
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\bin\Debug\net6.0\pac.1.exe
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\bin\Debug\net6.0\pac.1.deps.json
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\bin\Debug\net6.0\pac.1.runtimeconfig.json
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\bin\Debug\net6.0\pac.1.dll
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\bin\Debug\net6.0\pac.1.pdb
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\pac.1.csproj.AssemblyReference.cache
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\pac.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\pac.1.AssemblyInfoInputs.cache
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\pac.1.AssemblyInfo.cs
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\pac.1.csproj.CoreCompileInputs.cache
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\pac.1.dll
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\refint\pac.1.dll
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\pac.1.pdb
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\pac.1.genruntimeconfig.cache
+C:\Users\Comp95\Desktop\Test_01\test_001\pac.1\obj\Debug\net6.0\ref\pac.1.dll
